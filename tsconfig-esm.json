@@ -12,6 +12,6 @@
     "lib": ["es2015", "dom"]
   },
   "files": [
-    "./lib/ngresizable.module.ts"
+    "./lib/resizable/ngresizable.module.ts"
   ]
 }

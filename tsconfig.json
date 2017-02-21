@@ -20,7 +20,8 @@
     ]
   },
   "files": [
-    "./lib/ngresizable.module.ts"
+    "./lib/resizable/ngresizable.module.ts"
+    //"./lib/resizable/blk-datepicker.module.ts"
   ],
   "angularCompilerOptions": {
     "skipTemplateCodegen": true
